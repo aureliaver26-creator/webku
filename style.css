@@ -12,7 +12,7 @@ body
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#4682B4;
+    background:#6495ED;
     color:#fff;
 }
 
@@ -21,7 +21,7 @@ body
 }
 
 .menu{
-    background-color:#4682B4;
+    background-color:#6495ED;
     height:50px;
     line-height:50px;
     position:relative;
@@ -44,7 +44,7 @@ body
 }
 
 .menu ul li a:hover {
-     background-color:#4b88bb;
+     background-color:#6495ED;
      display:block;
 }
 
@@ -90,7 +90,7 @@ body
      margin:auto;
      height:40px;
      line-height:40px;
-     background:#417aa8;
+     background:#6495ED;
      color:#fff;
      margin-bottom: 1pc;
 }
